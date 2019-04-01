@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mapview</title>
+
+    <link rel="stylesheet" href="../script/Leaflet/leaflet.css">
+    <link rel="stylesheet" href="../MapView/Mapview.css">
+    <link rel="stylesheet" href="../css/material-icons.css">
+    <link rel="stylesheet" href="../script/MarkerCluster/MarkerCluster.css">
+    <link rel="stylesheet" href="../script/MarkerCluster/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="../script/select2/select2.css" />
+</head>
+<body style="overflow:hidden;">
+    <div class="row" style="">
+        <div class="col s12" style="background-color: #90bdb5; z-index: 1000;margin: 0px 0px 0px 0px;">
+            <div class="row">
+                <div class="col s4">
+                    <input type="text" class="" id="getmeter" style="color: white;" placeholder="Search Location" name="meter" />
+                    <input type='hidden' id="add" style="border-bottom-color: white;"
+                    class="borderclr autoWidth" value="0" />
+                    <span>
+                        <button id="btnfind" class="zoomicon" style="/*background-color: #f0f8ff00;border: 0px;color: white;position: absolute;margin-top: 10px;*/">
+                            <i class="material-icons" style="margin-top:-2px;">search</i>
+                        </button>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="map"></div>
+
+    <script src="../script/jquery/jquery-3.3.1.min.js"></script>
+    <script src="../script/jquery/jquery-ui.js"></script>
+    <script src="../script/globalFunction.js"></script>
+    <script src="../script/select2/select2.js"></script>
+    <script src="../script/Leaflet/leaflet-src.js"></script>
+    <script src="../script/MarkerCluster/leaflet.markercluster-src.js"></script>
+    <script src="../MapView/Mapview.js"></script>
+</body>
+
+</html>

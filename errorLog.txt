@@ -1,0 +1,30 @@
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Failed to connect to 148.251.43.230:1433 - connect EHOSTUNREACH 148.251.43.230:1433 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Failed to connect to localhost:1433 in 15000ms 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+ConnectionError: Failed to connect to 148.251.43.230:1433 in 15000ms 
+TypeError: Invalid server: undefined 
+TypeError: Invalid server: undefined 
+TypeError: Invalid server: undefined 
+TypeError: Invalid server: undefined 
+ConnectionError: Failed to connect to 127.0.0.1:27017:1433 - getaddrinfo ENOTFOUND 127.0.0.1:27017 
+ConnectionError: Failed to connect to 127.0.0.1:27017:1433 - getaddrinfo ENOTFOUND 127.0.0.1:27017 
+ConnectionError: Failed to connect to 127.0.0.1:27017:1433 - getaddrinfo ENOTFOUND 127.0.0.1:27017 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Port for SQLEXPRESS not found in ServerName;SAWS02PC-NIKHIL;InstanceName;MSSQLSERVER;IsClustered;No;Version;14.0.1000.169;tcp;1433;np;\\SAWS02PC-NIKHIL\pipe\sql\query;; 
+ConnectionError: Failed to lookup instance on . - getaddrinfo ENOTFOUND . 
