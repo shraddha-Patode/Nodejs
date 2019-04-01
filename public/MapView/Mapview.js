@@ -28,6 +28,16 @@ $(document).ready(function () {
             doubleClickZoom: false,
         }).setView([19.2184696, 72.8631155], 13);
 
+        Icon = L.icon({
+            iconUrl: "../script/Leaflet/images/icon.png",
+            className: 'image-icon',
+            iconSize: [50, 50], // size of the icon
+          
+        });
+
+   // Custom Marker
+                var myMarker = L.marker([19.21852,72.86399], { icon: Icon, title: "My Point", alt: "The Big I" })
+                    .addTo(map)
 
         if (true) //THIS WILL BE DECIDED DYNAMICALLY BY A BIT IN DB !!TO BE IMPLEMENTED
             L.control.scale({

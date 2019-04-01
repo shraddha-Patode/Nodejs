@@ -24,13 +24,6 @@
     right: 0 !important;
 }
 
-.leaflet-bottom {
-    bottom: 0 !important;
-}
-
-
-
-
 table#tblDev > tbody > tr > td{
     border-bottom: 1px solid white;
     padding: 5px;
@@ -237,8 +230,8 @@ background-color: red;
     /* margin: 7px 0 0 7px; */
     /* background: #e6e6e6; */
     position: absolute;
-    left: 3px;
-    top: 3px;
+    left: 8px;
+    top: 6px;
     transform: rotate(45deg);
     text-align: end;
   
